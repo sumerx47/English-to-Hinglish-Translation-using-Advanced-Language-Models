@@ -9,7 +9,8 @@ project_name = "English to Hinglish Translation using Advanced Language Models"
 
 list_of_files = [
     ".github/workflows/.gitkeep",
-    "Dataset/input.txt",
+    "METHOD-1.txt",
+    "METHOD-2.txt",
     "requirements.txt"
     
 
