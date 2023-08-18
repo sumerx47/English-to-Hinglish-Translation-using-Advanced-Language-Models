@@ -1,9 +1,9 @@
 # English-to-Hinglish-Translation-using-Advanced-Language-Models
 
-##How to run?
+## How to run?
 
 ## STEPS:
-Clone the repository
+### Clone the repository
 
 https://github.com/sumerx47/English-to-Hinglish-Translation-using-Advanced-Language-Models
 
