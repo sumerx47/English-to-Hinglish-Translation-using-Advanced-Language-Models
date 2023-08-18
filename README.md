@@ -8,12 +8,12 @@
 https://github.com/sumerx47/English-to-Hinglish-Translation-using-Advanced-Language-Models
 
 ## STEP 01 : 
-Create a conda environment after opening the repository
+#### Create a conda environment after opening the repository
 conda create -n MLPROJECT python=3.8 -y
 conda activate MLPROJECT
 
 ## STEP 02 : 
-install the requirements
+#### install the requirements
 pip install -r requirements.txt
 
 ## STEP 03 : 
