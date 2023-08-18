@@ -26,4 +26,4 @@ STEP 06- paste the Secret key in your code
 # Set your OpenAI API key
 api_key = "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"
 
-STEP 07- Build Model
+STEP 07- Build Model 
